@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chestc24
+- 👀 I’m interested in transitioning my career to software developer roles in the future 
+- 🌱 I’m currently learning data structures and algorithms
+- 💞️ I’m looking to collaborate on small projects to expose myself more in coding
