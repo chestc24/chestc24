@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chesterziebart
-- 👀 I’m interested in transitioning my career to software developer roles in the future 
-- 🌱 I’m currently learning data structures and algorithms
+- 👋 Hi, I am @chesterziebart
+- 👀 I am transitioning my career to software developer roles in the future 
+- 🌱 I am currenty working on multiple MERN stack projects
 - 💞️ I’m looking to collaborate on small projects to expose myself more in coding
