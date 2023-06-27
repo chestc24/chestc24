@@ -3,8 +3,8 @@
 - 🎓 Georgia Tech MS Computer Science 2025, focus in Computational Perception and Robotics, and Machine Learning 
 
 
-- 🌱 I am currenty working as a Process Engineer for Intel while pursuing my masters. In my free time, I work react and mern projects
-- 💞️ I’m looking to collaborate on small projects to expand my skills as a programmer
+- 🌱 I am currenty working as a Process Engineer for Intel Corporation while pursuing my masters. In my free time, I love to play JRPGs and to plan my future travels (both locally and internationally)
+- 💞️ I develop react and mern projects! I look forward to collaborate on small projects to expand my skills as a programmer
 
 
 - 💻 Languages and Technologies: Java Python C++ HTML5 CSS3 JavaScript React Node.js SQL MySQL MongoDB Git GitHub Terminal Visual Studio Code
