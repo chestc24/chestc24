@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Chester!
-- 🎓 Virginia Tech BS Mechanical Engineering 2019
-- 🎓 Georgia Tech MS Computer Science 2025, focus in Computational Perception and Robotics, and Machine Learning
+- 🎓 Graduated Virginia Tech BS Mechanical Engineering 2019
+- 🎓 Attending Georgia Tech MS Computer Science 2025, focus in Computational Perception and Robotics, and Machine Learning
 - Looking for fulltime software engineer opportunities. Please connect with me!  
 
 
