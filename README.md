@@ -4,8 +4,8 @@
 - 🎓 &nbsp; Attending Georgia Tech MS Computer Science 2025, focus in Computational Perception and Robotics, and Machine Learning <br />
 - 🦃 &nbsp; Graduated Virginia Tech BS Mechanical Engineering 2019 <br />
 - 🔭 &nbsp; Looking for fulltime fullstack deveoper and software engineering roles. Please connect with me! <br />
-- 💞️ &nbsp; I develop react and mern projects! I look forward to collaborate on small projects to expand my skills as a programmer <br />
-- 🌱 &nbsp; I am currenty working as a Process Engineer for Intel Corporation while pursuing my masters. In my free time, I love to play JRPGs and to plan my future travels (both locally and internationally) <br />
+- 💞️ &nbsp; I develop react and mern projects! I look forward to collaborate on small projects to expand my skills as a programmer. <br />
+- 🌱 &nbsp; I am currenty working as a Process Engineer for Intel Corporation while pursuing my masters. In my free time, I love to play JRPGs and to plan my future travels (both locally and internationally). <br />
 
 <h3>💻 Languages and Technologies: </h3>
 - 💻 &nbsp; Java | Python | JavaScript | C++ | React | MERN <br />   
