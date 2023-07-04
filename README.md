@@ -1,5 +1,5 @@
 <h1>Hi, my name is Chester! 👋</h1>
-<h2>Software Engineer with Mechanical Engineering background</h2>
+<h2>Software and Mechanical Engineer</h2>
 <h3>About Me: </h3>
 - 🎓 &nbsp; Attending Georgia Tech MS Computer Science 2025, focus in Computational Perception and Robotics, and Machine Learning <br />
 - 🦃 &nbsp; Graduated Virginia Tech BS Mechanical Engineering 2019 <br />
